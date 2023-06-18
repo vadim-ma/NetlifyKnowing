@@ -1,1 +1,1 @@
-# Thes is a test project to get to know what Netlify is and how to use thios service.
+# Thes is a test project to get to know what Netlify is and how to use this service.
